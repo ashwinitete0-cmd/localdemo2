@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main(void)
 {
@@ -22,4 +22,11 @@ if(i==a)
 return 0;
 
 
+}*/
+#include <stdio.h>
+int main(void)
+{
+    char ch = 'A';
+    printf("The value of character is %c\n", ch);
+    return 0;   
 }
